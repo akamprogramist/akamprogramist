@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Akam Kamal</h1>
 
-<!--
-**akamprogramist/akamprogramist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact me: **akadev404@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/akam-programist-352218226" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akam-programist-352218226" height="30" width="40" /></a>
+<a href="https://instagram.com/akamprogramist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akamprogramist" height="30" width="40" /></a>
+<a href="https://facebook.com/Akam.Programist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Akam.Programist" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visitors<br>
+  <img src="https://profile-counter.glitch.me/akamprogramist/count.svg" />
+
+![](https://komarev.com/ghpvc/?username=akamprogramist&color=blue)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akamprogramist&show_icons=true&locale=en&layout=compact" alt="akamprogramist" /></p>
