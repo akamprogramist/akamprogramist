@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akam Kamal</h1>
+<h1 align="center">Hi 👋, I'm Akam</h1>
 
 Contact me: **akadev404@gmail.com**
 
